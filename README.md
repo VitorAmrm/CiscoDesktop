@@ -1,5 +1,5 @@
 # CiscoDesktop
 IT Virtual Desktop é um projeto da Cisco para manutenção de computadores
 
-[Ir para Cisco IT Virtual Desktop](https://vitoramrm.github.io/CiscoDesktop/cisco_desktop/cisco.html){: .btn}
-[Ir para Super Smash Flash](https://vitoramrm.github.io/CiscoDesktop/cisco_desktop/cisco.html){: .btn}
+<button class='btn' onclick='https://vitoramrm.github.io/CiscoDesktop/cisco_desktop/cisco.html'>Ir para Cisco</button>
+<button class='btn' onclick='https://vitoramrm.github.io/CiscoDesktop/supersmashflash_swf/smashflash.html'>Ir para Super Smash Flash</button>
