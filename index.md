@@ -1,1 +1,0 @@
-#IT Cisco Vitual Desktop
