@@ -20,7 +20,7 @@ swfobject.embedSWF = function(url, cont, width, height){
     player.load({ url: url });
 }
 
-swfobject.embedSWF('./RootMovie.swf', 'ruffle', 500, 500);
+swfobject.embedSWF('./RootMovie.swf', 'ruffle', window.screen.availWidth, window.screen.availHeight);
         </script>
     </body>
 </html>
